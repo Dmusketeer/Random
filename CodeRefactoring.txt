@@ -1,0 +1,15 @@
+Improving or updating the code without changing the software’s functionality or external behavior of 
+the application is known as code refactoring. 
+It reduces the technical cost and makes the code more efficient and maintainable.
+If you don’t pay attention to the code refactoring process earlier, you will pay for errors in your code later. 
+So don’t ignore cleaning up the code. 
+
+
+what are the techniques to refactor the code? :
+Most Common Code Refactoring Techniques:
+	1. Red-Green Refactoring
+	2. Refactoring By Abstraction
+	3. Composing Method
+	4. Simplifying Methods
+	5. Moving Features Between Objects
+	6. Preparatory Refactoring
